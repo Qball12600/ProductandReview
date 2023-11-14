@@ -1,2 +1,0 @@
-# ProductandReview
-Foreign keys
